@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/Ding128/beer-service.svg?style=svg)](https://circleci.com/gh/Ding128/beer-service)
