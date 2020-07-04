@@ -29,4 +29,5 @@ public class BeerController {
         // Todo impl
         return new ResponseEntity(HttpStatus.NO_CONTENT);
     }
+
 }
