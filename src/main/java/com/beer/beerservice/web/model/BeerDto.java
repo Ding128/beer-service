@@ -40,7 +40,6 @@ public class BeerDto {
     @NotNull
     private String upc;
 
-    @Positive
     @NotNull
     private BigDecimal price;
 
